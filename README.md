@@ -103,13 +103,6 @@ All endpoints return standardized responses:
 ```
 
 
-This creates:
-
-- Controller
-- Service
-- Model
-- Routes
-- Validation schema
 
 ## Environment Variables
 
