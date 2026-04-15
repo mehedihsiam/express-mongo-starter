@@ -102,13 +102,6 @@ All endpoints return standardized responses:
 }
 ```
 
-## Generating New Modules
-
-Generate a new module with all CRUD operations:
-
-```bash
-npm run generate-module <module-name>
-```
 
 This creates:
 
